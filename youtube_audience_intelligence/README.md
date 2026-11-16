@@ -2,6 +2,8 @@
 
 A YouTube-only Streamlit application for a Machine Learning Project. It analyzes public video performance and available public comments, discovers comment-behaviour segments with K-Means, flags unusual video engagement patterns, and produces evidence-linked marketing suggestions.
 
+website link: https://youtube-insight-engine.streamlit.app/
+
 > **Scope note:** The uploaded course brief describes a broader social-media campaign engine. This implementation follows the more specific project instructions supplied with the request: **YouTube only**. It does not connect to Instagram, TikTok or Facebook.
 
 ## Main features
